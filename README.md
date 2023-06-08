@@ -1,6 +1,6 @@
 <p align="center">
   <a href="fem">
-    <img alt="react logo" title="React" src="./public/images/course-icon.png" />
+    <img alt="react logo" title="React" src="https://reactjs.org/logo-og.png" />
   </a>
 </p>
 
