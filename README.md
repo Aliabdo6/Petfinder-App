@@ -1,6 +1,14 @@
-<p align="center"><a href="fem"><img alt="react logo" title="React" src="https://th.bing.com/th/id/OIP.YCxnS_5txtkdvzbwQgeibAHaEK?pid=ImgDet&rs=1" /></a></p>
+<p align="center">
+  <a href="fem">
+    <img alt="react logo" title="React" src="./public/images/course-icon.png" />
+  </a>
+</p>
 
-[Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)]
+[![Frontend Masters][fem-img]][fem]
+
+[fem-img]: https://static.frontendmasters.com/assets/brand/logos/full.png
+[fem]: fem
+
 
 ## Description
 build real-world applications using modern React 18
